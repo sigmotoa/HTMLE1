@@ -8,3 +8,12 @@ p{
 pre{
     font-size: 15pt;
 }
+
+ul{
+    color: darkmagenta;
+}
+ol{
+    color: rgb(4, 54, 19);
+    font-style: italic;
+}
+
